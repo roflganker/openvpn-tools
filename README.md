@@ -24,7 +24,7 @@ On your client side
 ### Obtaining scripts
 
 ```shell
-git clone https://github.com/roflganker/openvpn-tools
+git clone https://github.com/roflganker/openvpn-tools.git
 cd openvpn-tools
 chmod +x *.sh
 ```

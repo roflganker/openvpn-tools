@@ -1,0 +1,2 @@
+clients/*.ovpn
+!clients/deadbeef@example.vps.local.ovpn
